@@ -1,8 +1,15 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EndrioRuzar&include_all_commits=true&show_icons=true&theme=gotham)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EndrioRuzar&theme=gotham)](https://github.com/EndrioRuzar/github-readme-stats)
+
+<a href="https://github.com/EndrioRuzar/github-readme-stats">
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=EndrioRuzar&include_all_commits=true&show_icons=true&theme=gotham" />
+</a>
+<a href="https://github.com/EndrioRuzar/convoychat">
+  <img height=145 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=EndrioRuzar&layout=compact&langs_count=8&card_width=320&theme=gotham" />
+</a>
+
+
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="left" alt="Rafa-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
 <div> 
