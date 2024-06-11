@@ -1,6 +1,6 @@
 
 <a href="https://github.com/EndrioRuzar/github-readme-stats">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=EndrioRuzar&include_all_commits=true&show_icons=true&theme=gotham" />
+  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=EndrioRuzar&include_all_commits=true&show_icons=true&theme=gotham" />
 </a>
 <a href="https://github.com/EndrioRuzar/convoychat">
   <img height=115 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=EndrioRuzar&layout=compact&langs_count=8&card_width=320&theme=gotham" />
