@@ -3,7 +3,7 @@
   <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=EndrioRuzar&include_all_commits=true&show_icons=true&theme=gotham" />
 </a>
 <a href="https://github.com/EndrioRuzar/convoychat">
-  <img height=115 align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=EndrioRuzar&layout=compact&langs_count=8&card_width=320&theme=gotham" />
+  <img height=115 align="right" aling="top" src="https://github-readme-stats.vercel.app/api/top-langs?username=EndrioRuzar&layout=compact&langs_count=8&card_width=320&theme=gotham" />
 </a>
 
 
