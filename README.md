@@ -14,5 +14,6 @@
   <a href="https://www.linkedin.com/in/endrio/" target="_blank"><img align="left" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href ="mailto:ruzar23@protonmail.com"><img align="left" src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"></a>
   <a href="https://github.com/RUZ4R/"><img align="left" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"></a>
-  
+
+  ![Snake animation](https://github.com/RUZ4R/RUZ4R/blob/output/github-contribution-grid-snake.svg)
 </div>
