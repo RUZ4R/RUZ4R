@@ -17,4 +17,4 @@
 
  
 </div>
- ![Snake animation](https://github.com/RUZ4R/RUZ4R/blob/output/github-contribution-grid-snake.svg)
+ 
