@@ -2,12 +2,15 @@ name: Generate Datas
 
 on:
   schedule: # execute every 12 hours
-    - cron: "* */12 * * *"
+    - cron: '30 5,17 * * *'
   workflow_dispatch:
 
 jobs:
   build:
-    name: Jobs to update datas
+    permissions:
+        id-token: write
+        contents: read
+        attestations: write
     runs-on: ubuntu-latest
     steps:
       # Snake Animation
