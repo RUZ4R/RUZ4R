@@ -1,12 +1,11 @@
-''''''
+<!-- 
 <a href="https://github.com/RUZ4R/">
   <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=RUZ4R&include_all_commits=true&show_icons=true&theme=gotham" />
 </a>
 <a href="https://github.com/RUZ4R/">
   <img height=110 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=RUZ4R&layout=compact&langs_count=16&card_width=320&theme=gotham" />
 </a>
-
-'''''''
+-->
 
 <div> 
   
