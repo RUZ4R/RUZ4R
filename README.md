@@ -4,8 +4,9 @@
 </a>
 <a href="https://github.com/RUZ4R/">
   <img height=110 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=RUZ4R&layout=compact&langs_count=16&card_width=320&theme=gotham" />
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </a>
- <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+
 <div> 
   
   <a href="https://www.instagram.com/end.rio/" target="_blank"><img align="left" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
