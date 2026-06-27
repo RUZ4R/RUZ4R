@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hello, I'm Endrio dos Santos
+# 👋 Hello, I'm Endrio
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=39FF14&center=true&vCenter=true&width=700&lines=Cybersecurity+Graduate;Python+Developer;Automation+Enthusiast;Linux+%7C+Windows;Computer+Networks;Open+Source+Projects" />
 
