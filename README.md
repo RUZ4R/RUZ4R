@@ -8,7 +8,7 @@
 
 ### 💻 Python • 🔐 Cybersecurity • ⚙️ Automation • 🌐 Networking
 
-<img src="https://komarev.com/ghpvc/?username=RUZ4R&label=Profile%20Views&color=39ff14&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=RUZ4R&label=RUZAR&color=39ff14"/>
 
 </div>
 
