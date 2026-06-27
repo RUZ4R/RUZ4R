@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=39FF14&center=true&vCenter=true&width=700&lines=Cybersecurity+Graduate;Python+Developer;Automation+Enthusiast;Linux+%7C+Windows;Computer+Networks;Open+Source+Projects" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:000000,100:00ff41&text=&animation=fadeIn&fontAlignY=40"/>
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:000000,100:00ff41&text=&animation=fadeIn&fontAlignY=40"/>-->
 
 ### 💻 Python • 🔐 Cybersecurity • ⚙️ Automation • 🌐 Networking
 
